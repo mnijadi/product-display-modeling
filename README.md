@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, we will walk through a dataset, analyze it, discover its statistical properties, and build different learning models on top of it, and give an interpretation for each model.
+In this project, we will walk through a dataset, analyze it, discover its statistical properties, discover different preprocessing techniques, and finally, build a model to predict the target variable.
 
 ## Setup
 
@@ -13,5 +13,3 @@ python -m venv .venv
 source .venv/bin/activate
 pip install requirements.txt
 ```
-
-## Summary
