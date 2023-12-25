@@ -1,4 +1,4 @@
-# Statistical Learning Project (In Progress)
+# Statistical Learning Project
 
 ## Description
 
