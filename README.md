@@ -17,8 +17,9 @@ We are developing our models in a jupyter notebook environment, using Python and
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- XGBoost
 - MLXtend
+- XGBoost
+- CatBoost
 - Tensorflow
 - Keras
 - MLFlow
@@ -29,6 +30,10 @@ We are developing our models in a jupyter notebook environment, using Python and
 ### For Development
 
 Create a Pytohn virtual environment:
+
+```{bash}
+pip install notebook numpy statsmodels matplotlib seaborn pandas scikit-learn mlxtend xgboost catboost tensorflow mlflow
+```
 
 ```{bash}
 python -m venv .venv
